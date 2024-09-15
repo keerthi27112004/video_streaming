@@ -7,6 +7,6 @@ const Loader = () =>  (
       <CircularProgress />
     </Stack>
   </Box>
-);
+);//
 
 export default Loader;
